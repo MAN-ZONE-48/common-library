@@ -19,4 +19,5 @@ public enum StatusConstant {
     public String getMessage() {
         return message;
     }
+
 }
